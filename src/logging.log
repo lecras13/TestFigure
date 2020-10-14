@@ -1,0 +1,432 @@
+2020-10-10 09:59:42,060 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Reading lines coordinates of points from file
+2020-10-10 09:59:42,065 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 09:59:42,066 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 09:59:42,067 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 09:59:42,068 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 09:59:42,068 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 09:59:42,070 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 09:59:42,071 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 09:59:42,071 [main] INFO  com.epam.figure.validation.Validator - Wrong number format
+2020-10-10 09:59:42,072 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 09:59:42,072 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 09:59:42,073 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 09:59:42,074 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 09:59:42,075 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 09:59:42,075 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 09:59:42,075 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 09:59:42,076 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 09:59:42,077 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 09:59:42,078 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:00:35,734 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Reading lines coordinates of points from file
+2020-10-10 10:00:35,738 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:00:35,738 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:00:35,739 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:00:35,740 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:00:35,740 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:00:35,742 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:00:35,743 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:00:35,743 [main] INFO  com.epam.figure.validation.Validator - Wrong number format
+2020-10-10 10:00:35,743 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:00:35,744 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:00:35,744 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:00:35,745 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:00:35,745 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:00:35,745 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:00:35,745 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:00:35,746 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:00:35,746 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:00:35,746 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:01:07,102 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Reading lines coordinates of points from file
+2020-10-10 10:01:07,106 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:01:07,106 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:01:07,106 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:01:07,107 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:01:07,107 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:01:07,109 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:01:07,110 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:01:07,110 [main] INFO  com.epam.figure.validation.Validator - Wrong number format
+2020-10-10 10:01:07,110 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:01:07,110 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:01:07,111 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:01:07,111 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:01:07,111 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:01:07,111 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:01:07,111 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:01:07,111 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:01:07,111 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:01:07,112 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:02:00,616 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Reading lines coordinates of points from file
+2020-10-10 10:02:00,622 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:02:00,623 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:02:00,624 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:02:00,625 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:02:00,626 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:02:00,627 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:02:00,628 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:02:00,628 [main] INFO  com.epam.figure.validation.Validator - Wrong number format
+2020-10-10 10:02:00,629 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:02:00,629 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:02:00,629 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:02:00,630 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:02:00,630 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:02:00,630 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:02:00,630 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:02:00,631 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:02:00,631 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:02:00,632 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:02:12,800 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Reading lines coordinates of points from file
+2020-10-10 10:02:12,806 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:02:12,807 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:02:12,807 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:02:12,809 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:02:12,809 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:02:12,811 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:02:12,812 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:02:12,812 [main] INFO  com.epam.figure.validation.Validator - Wrong number format
+2020-10-10 10:02:12,813 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:02:12,813 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:02:12,813 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:02:12,814 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:02:12,814 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:02:12,814 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:02:12,814 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:02:12,815 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:02:12,815 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:02:12,816 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:05:31,341 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Reading lines coordinates of points from file
+2020-10-10 10:05:31,345 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:05:31,345 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:05:31,346 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:05:31,347 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:05:31,347 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:05:31,349 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:05:31,349 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:05:31,349 [main] INFO  com.epam.figure.validation.Validator - Wrong number format
+2020-10-10 10:05:31,350 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:05:31,350 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:05:31,350 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:05:31,351 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:05:31,351 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:05:31,351 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:05:31,351 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:05:31,352 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:05:31,352 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:05:31,352 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:05:55,072 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Reading lines coordinates of points from file
+2020-10-10 10:05:55,079 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:05:55,080 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:05:55,080 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:05:55,082 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:05:55,082 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:05:55,085 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:05:55,085 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:05:55,086 [main] INFO  com.epam.figure.validation.Validator - Wrong number format
+2020-10-10 10:05:55,086 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:05:55,087 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:05:55,087 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:05:55,088 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:05:55,088 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:05:55,088 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:05:55,089 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:05:55,089 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:05:55,090 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:05:55,090 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:06:11,490 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Reading lines coordinates of points from file
+2020-10-10 10:06:11,497 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:06:11,498 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:06:11,498 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:06:11,500 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:06:11,501 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:06:11,504 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:06:11,504 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:06:11,505 [main] INFO  com.epam.figure.validation.Validator - Wrong number format
+2020-10-10 10:06:11,505 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:06:11,505 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:06:11,506 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:06:11,506 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:06:11,507 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:06:11,507 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:06:11,507 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:06:11,508 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:06:11,508 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:06:11,508 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:08:08,016 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Reading lines coordinates of points from file
+2020-10-10 10:08:08,023 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:08:08,023 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:08:08,024 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:08:08,025 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:08:08,026 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:08:08,029 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:08:08,030 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:08:08,030 [main] INFO  com.epam.figure.validation.Validator - Wrong number format
+2020-10-10 10:08:08,031 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:08:08,031 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:08:08,031 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:08:08,032 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:08:08,032 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:08:08,032 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:08:08,032 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:08:08,033 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:08:08,033 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:08:08,033 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:08:10,325 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Reading lines coordinates of points from file
+2020-10-10 10:08:10,329 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:08:10,330 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:08:10,330 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:08:10,331 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:08:10,331 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:08:10,333 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:08:10,333 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:08:10,334 [main] INFO  com.epam.figure.validation.Validator - Wrong number format
+2020-10-10 10:08:10,334 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:08:10,334 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:08:10,335 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:08:10,335 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating points
+2020-10-10 10:08:10,335 [main] INFO  com.epam.figure.validation.Validator - Checking figure is a cube
+2020-10-10 10:08:10,335 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Creating cube from line 1
+2020-10-10 10:08:10,336 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Parse lines to coordinates
+2020-10-10 10:08:10,336 [main] INFO  com.epam.figure.dao.impl.CubeDaoImpl - Checking coordinates
+2020-10-10 10:08:10,337 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-10 10:08:10,337 [main] INFO  com.epam.figure.validation.Validator - Wrong number point coordinates
+2020-10-11 23:13:13,449 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines coordinates of points from file
+2020-10-11 23:13:13,454 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:13:13,456 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:13:13,457 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:13:13,458 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-11 23:13:13,458 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:13:13,459 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:13:13,459 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:13:59,354 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines coordinates of points from file
+2020-10-11 23:13:59,359 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:13:59,361 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:13:59,362 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:13:59,363 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-11 23:13:59,363 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:13:59,363 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:13:59,363 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:16:00,376 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines coordinates of points from file
+2020-10-11 23:16:00,381 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:16:00,382 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:16:00,383 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:16:00,385 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:16:00,386 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-11 23:16:00,386 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:16:00,386 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:16:00,387 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:16:00,387 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:19:21,732 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines coordinates of points from file
+2020-10-11 23:19:21,738 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:19:21,739 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:19:21,741 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:19:21,741 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-11 23:19:21,741 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:19:21,742 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:19:21,742 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:19:21,742 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-11 23:20:08,898 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines coordinates of points from file
+2020-10-11 23:20:08,903 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:20:08,905 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:20:08,906 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:20:08,907 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-11 23:20:08,907 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:20:08,908 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:20:08,908 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:20:08,908 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-11 23:20:34,536 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines coordinates of points from file
+2020-10-11 23:20:34,541 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:20:34,543 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:20:34,544 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:20:34,545 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-11 23:20:34,545 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:20:34,546 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-11 23:20:34,546 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-11 23:20:34,546 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 09:49:17,736 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines coordinates of points from file
+2020-10-12 09:49:17,739 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 09:49:17,740 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-12 09:49:17,741 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 09:49:17,742 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 09:49:17,742 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 09:49:17,742 [main] INFO  com.epam.figure.validation.ValidatorCube - Checking figure is a cube
+2020-10-12 09:49:17,742 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 09:49:17,742 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 10:01:23,199 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines from file
+2020-10-12 10:01:23,202 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 10:01:23,203 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-12 10:01:23,203 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 10:01:23,204 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 10:01:23,204 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 10:01:23,204 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-12 10:01:23,204 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 10:01:23,204 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 10:01:23,205 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-12 10:01:23,205 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-12 10:01:23,205 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-12 10:01:23,205 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-12 11:53:15,989 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-12 11:53:15,991 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-12 11:53:58,273 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-12 11:53:58,274 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-12 11:54:22,774 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-12 11:54:22,776 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-12 11:55:07,232 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-12 11:55:07,233 [main] INFO  com.epam.figure.logic.Calculator - Surface is 486
+2020-10-12 12:11:35,960 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-12 12:11:35,961 [main] INFO  com.epam.figure.logic.Calculator - Volume is 729
+2020-10-12 12:11:59,920 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-12 12:11:59,921 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-12 12:15:02,430 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-12 12:15:02,431 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-12 13:06:50,459 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 13:37:03,058 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number point coordinates
+2020-10-12 13:37:38,303 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number point coordinates
+2020-10-12 13:38:48,635 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number point coordinates
+2020-10-12 13:39:06,953 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number point coordinates
+2020-10-12 13:40:49,997 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number point coordinates
+2020-10-12 13:41:23,454 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 13:43:21,079 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 14:03:20,334 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 14:15:21,641 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-12 14:45:24,447 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-12 14:45:32,144 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines from file
+2020-10-12 14:45:32,146 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 14:45:32,147 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-12 14:45:32,148 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 14:45:32,148 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 14:45:32,148 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 14:45:32,149 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-12 14:45:32,149 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 14:45:32,149 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 14:45:32,150 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-12 14:45:32,150 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-12 14:45:32,150 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-12 14:45:32,150 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-12 14:48:19,672 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines from file
+2020-10-12 14:48:19,675 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 14:48:19,676 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-12 14:48:19,677 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 14:48:19,677 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 14:48:19,677 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 14:48:19,677 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-12 14:48:19,677 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-12 14:48:19,677 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-12 14:48:19,678 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-12 14:48:19,678 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-12 14:48:19,678 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-12 14:48:19,678 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-12 14:48:19,678 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-12 14:48:19,679 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-12 14:48:19,679 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-12 14:48:19,679 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-12 14:48:19,679 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-12 14:48:19,679 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-12 15:06:11,975 [main] ERROR com.epam.figure.logic.Calculator - Wrong name plane!
+2020-10-12 15:06:28,039 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-12 15:07:25,661 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-12 15:07:59,125 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-12 15:08:07,285 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-12 22:37:14,588 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-12 22:37:14,590 [main] INFO  com.epam.figure.logic.Calculator - Surface is 96
+2020-10-12 22:38:02,597 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-12 22:38:02,601 [main] INFO  com.epam.figure.logic.Calculator - Volume is 64
+2020-10-12 22:41:41,031 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-12 22:41:48,399 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-12 22:55:05,540 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 22:56:27,056 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 22:56:55,879 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 22:58:57,400 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 22:59:27,426 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 23:00:08,632 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 23:00:37,952 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 23:05:35,363 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 23:05:35,371 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 23:05:54,221 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 23:05:54,231 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 23:13:11,467 [main] INFO  com.epam.figure.validation.ValidatorCube - Not a cube
+2020-10-12 23:20:45,548 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number point coordinates
+2020-10-12 23:20:45,551 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines from file
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-13 09:03:57,794 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-13 09:03:57,794 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Surface is 96
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-13 09:03:57,794 [main] INFO  com.epam.figure.logic.Calculator - Volume is 64
+2020-10-13 15:11:29,589 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines from file
+2020-10-13 15:11:29,593 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 15:11:29,594 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-13 15:11:29,595 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 15:11:29,595 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-13 15:11:29,595 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 15:11:29,595 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-13 15:11:29,595 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 15:11:29,596 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-13 15:11:29,596 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 15:11:29,596 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-13 15:11:29,597 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-13 15:11:29,597 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-13 15:11:29,597 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-13 15:11:29,597 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-13 15:11:29,597 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 15:11:29,597 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 15:11:29,597 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 15:11:29,597 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-13 15:11:29,597 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-13 15:11:29,597 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-13 15:11:29,598 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-13 15:11:29,598 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 15:11:29,598 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 15:11:29,598 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 15:11:29,598 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-13 15:11:29,598 [main] INFO  com.epam.figure.logic.Calculator - Surface is 96
+2020-10-13 15:11:29,598 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-13 15:11:29,598 [main] INFO  com.epam.figure.logic.Calculator - Volume is 64
+2020-10-13 16:02:27,041 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 16:02:27,043 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-13 16:05:10,124 [main] INFO  com.epam.figure.dao.impl.DataDaoImpl - Reading lines from file
+2020-10-13 16:05:10,127 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 16:05:10,128 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-13 16:05:10,128 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 16:05:10,129 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-13 16:05:10,129 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 16:05:10,129 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-13 16:05:10,129 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 16:05:10,129 [main] INFO  com.epam.figure.validation.ValidatorDataFile - Wrong number format
+2020-10-13 16:05:10,129 [main] INFO  com.epam.figure.logic.ParserStringData - Parse lines to coordinates
+2020-10-13 16:05:10,130 [main] INFO  com.epam.figure.logic.ParserStringData - Create points from lines
+2020-10-13 16:05:10,130 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-13 16:05:10,131 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-13 16:05:10,131 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-13 16:05:10,131 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-13 16:05:10,131 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 16:05:10,131 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 16:05:10,131 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 16:05:10,131 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-13 16:05:10,131 [main] INFO  com.epam.figure.logic.Calculator - Surface is 6
+2020-10-13 16:05:10,131 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-13 16:05:10,131 [main] INFO  com.epam.figure.logic.Calculator - Volume is 1
+2020-10-13 16:05:10,131 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 16:05:10,131 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 16:05:10,131 [main] ERROR com.epam.figure.logic.Calculator - The plane XY does not cut the figure!
+2020-10-13 16:05:10,131 [main] INFO  com.epam.figure.logic.Calculator - Surface Area calculating
+2020-10-13 16:05:10,132 [main] INFO  com.epam.figure.logic.Calculator - Surface is 96
+2020-10-13 16:05:10,132 [main] INFO  com.epam.figure.logic.Calculator - Volume calculating
+2020-10-13 16:05:10,132 [main] INFO  com.epam.figure.logic.Calculator - Volume is 64
